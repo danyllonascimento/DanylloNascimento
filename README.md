@@ -17,7 +17,7 @@
   <h2>Linguagens e Frameworks</h2>
 </label>  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dan-Flutter" height="30" width="40" src="https://asset.brandfetch.io/id209IGdxm/ide6ubEL24.svg">
+  <img align="center" alt="Dan-Flutter" height="30" width="40" src="https://blog.flutterflow.io/content/images/size/w1200/2022/03/flutterflow_logo.png">
   <img align="center" alt="Dan-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Dan-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
