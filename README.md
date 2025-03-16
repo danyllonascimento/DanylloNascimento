@@ -2,7 +2,6 @@
 
 - 🔭 Hoje atuo com dev mobile com o Framework Flutter e Flutterflow
 - 🔭 Hoje trabalho com front-end com php, html, css, javascript
-- 🌱 Estudando React e React Native
 - 😄 Pronouns: ele/dele
 
 <div align="center">
